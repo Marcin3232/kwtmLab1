@@ -1,5 +1,5 @@
 
-namescape degreemath {
+namespace degreemath{
     double sin(double degree); // i.t.d.
       double cos(double degree); // i.t.d.
       double tg(double degree); // i.t.d.

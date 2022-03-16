@@ -1,1 +1,1 @@
-add_library(Trygonometria trygonometria.cpp)
+add_library(Trygonometria trygonometria.cpp trygonometria.h)
